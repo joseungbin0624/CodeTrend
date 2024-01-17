@@ -14,6 +14,7 @@ def main():
         "Ruby",
         "Go",
         "Kotlin",
+        "TypeScript",
     ]
     for lang in languages:
         url = f"https://www.saramin.co.kr/zf_user/search?searchword={lang}"
